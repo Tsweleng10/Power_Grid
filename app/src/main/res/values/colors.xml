@@ -1,0 +1,17 @@
+<resources>
+    <color name="bg">#0F1620</color>
+    <color name="grid_line">#26313F</color>
+
+    <color name="tile_off">#1E2936</color>
+    <color name="tile_on">#123A2E</color>
+
+    <color name="wire_off">#46566A</color>
+    <color name="wire_on">#35D07F</color>
+
+    <color name="source">#FFB020</color>
+    <color name="building_off">#7A8798</color>
+    <color name="building_on">#35D07F</color>
+
+    <color name="text_primary">#E6EDF5</color>
+    <color name="text_secondary">#8FA0B4</color>
+</resources>

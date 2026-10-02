@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Power Grid</string>
+
+    <!-- Main menu -->
+    <string name="menu_title">Power Grid</string>
+    <string name="menu_subtitle">Connect every building to the station.</string>
+    <string name="menu_play">Play</string>
+    <string name="menu_levels">Levels</string>
+
+    <!-- HUD -->
+    <string name="hud_level">Level %1$d · %2$s</string>
+    <string name="hud_moves">Moves: %1$d</string>
+    <string name="action_back">Back</string>
+    <string name="action_restart">Restart</string>
+
+    <!-- Level select -->
+    <string name="level_select_title">Select a level</string>
+    <string name="level_entry">Level %1$d — %2$s</string>
+
+    <!-- Win dialog -->
+    <string name="win_title">Level complete</string>
+    <string name="win_message">Solved in %1$d moves.\nStars: %2$d / 3</string>
+    <string name="win_next">Next</string>
+    <string name="win_retry">Retry</string>
+    <string name="win_menu">Menu</string>
+
+    <!-- Errors -->
+    <string name="error_load_level">Could not load this level:\n%1$s</string>
+    <string name="error_load_levels">Could not load the level list.</string>
+</resources>
