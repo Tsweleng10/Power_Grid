@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "name": "Branching Out",
+  "rows": 3,
+  "cols": 3,
+  "parMoves": 2,
+  "tiles": [
+    { "r": 0, "c": 0, "type": "SOURCE",     "rotation": 0, "locked": true  },
+    { "r": 0, "c": 1, "type": "CORNER",     "rotation": 1, "locked": false },
+    { "r": 1, "c": 0, "type": "BUILDING",   "rotation": 0, "locked": true  },
+    { "r": 1, "c": 1, "type": "T_JUNCTION", "rotation": 3, "locked": false },
+    { "r": 1, "c": 2, "type": "BUILDING",   "rotation": 3, "locked": true  }
+  ]
+}

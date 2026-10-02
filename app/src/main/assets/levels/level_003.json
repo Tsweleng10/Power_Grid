@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "name": "Detour",
+  "rows": 3,
+  "cols": 4,
+  "parMoves": 5,
+  "tiles": [
+    { "r": 0, "c": 0, "type": "SOURCE",     "rotation": 0, "locked": true  },
+    { "r": 0, "c": 1, "type": "STRAIGHT",   "rotation": 0, "locked": false },
+    { "r": 0, "c": 2, "type": "T_JUNCTION", "rotation": 1, "locked": false },
+    { "r": 0, "c": 3, "type": "BUILDING",   "rotation": 3, "locked": true  },
+    { "r": 1, "c": 2, "type": "STRAIGHT",   "rotation": 3, "locked": false },
+    { "r": 2, "c": 0, "type": "BUILDING",   "rotation": 1, "locked": true  },
+    { "r": 2, "c": 1, "type": "STRAIGHT",   "rotation": 0, "locked": false },
+    { "r": 2, "c": 2, "type": "CORNER",     "rotation": 2, "locked": false }
+  ]
+}

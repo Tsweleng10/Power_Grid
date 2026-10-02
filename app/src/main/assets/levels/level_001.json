@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "First Light",
+  "rows": 3,
+  "cols": 3,
+  "parMoves": 1,
+  "tiles": [
+    { "r": 1, "c": 0, "type": "SOURCE",   "rotation": 0, "locked": true  },
+    { "r": 1, "c": 1, "type": "STRAIGHT", "rotation": 0, "locked": false },
+    { "r": 1, "c": 2, "type": "BUILDING", "rotation": 3, "locked": true  }
+  ]
+}
